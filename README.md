@@ -1,4 +1,4 @@
-# Wondrous Ways to Ruin Dinner: The Secret to getting star ratings!
+# The Secret to getting star ratings!
 
 ---
 
