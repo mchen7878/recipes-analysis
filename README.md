@@ -33,9 +33,9 @@ Something peculiar from the data was the presence of 0-star ratings. After some 
 
 The reviews for the recipes with 0-star ratings.
 <iframe
-src="assets/rating_0.html"
+src="assets/rating_0_top7.html"
 width="800"
-height="600"
+height="400"
 frameborder="0"
 ></iframe>
 
@@ -51,9 +51,9 @@ In our investigation, certain recipes had way longer preparation times than the 
 Below an overview of the cleaned_table.
 
 <iframe
-src="assets/cleaned_table.html"
+src="assets/cleaned_table_head.html"
 width="800"
-height="600"
+height="400"
 frameborder="0"
 ></iframe>
 
@@ -62,7 +62,7 @@ Something interesting we found in our investaigation of the data was the oversat
 <iframe
 src="assets/distribution_ratings.html"
 width="800"
-height="600"
+height="400"
 frameborder="0"
 ></iframe>
 
@@ -71,7 +71,7 @@ Taking a closer look with a scatter plot, there doesn't appear to be a high corr
 <iframe
 src="assets/rating_vs_prep.html"
 width="800"
-height="600"
+height="400"
 frameborder="0"
 ></iframe>
 
@@ -82,7 +82,7 @@ Pulling in some other features, we created a pivot table that shows relationship
 <iframe
 src="assets/ningred_min_nstep.html"
 width="800"
-height="600"
+height="300"
 frameborder="0"
 ></iframe>
 
@@ -93,7 +93,7 @@ Looking at which columns of our dataframe are actually missing values, it seems 
 <iframe
 src="assets/missing_values.html"
 width="800"
-height="600"
+height="300"
 frameborder="0"
 ></iframe>
 
