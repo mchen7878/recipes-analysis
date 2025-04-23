@@ -1,4 +1,3 @@
-# Building a Cook's Intution for Time
 
 ---
 
@@ -33,7 +32,7 @@ Something peculiar from the data was the presence of 0-star ratings. After some 
 
 The reviews for the recipes with 0-star ratings.
 <iframe
-src="assets/rating_0_top7.html"
+src="assets/0rating_top7.html"
 width="800"
 height="400"
 frameborder="0"
@@ -51,7 +50,7 @@ In our investigation, certain recipes had way longer preparation times than the 
 Below an overview of the cleaned_table.
 
 <iframe
-src="assets/cleaned_table_head.html"
+src="assets/headcleaned_table.html"
 width="800"
 height="400"
 frameborder="0"
